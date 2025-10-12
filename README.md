@@ -1,4 +1,4 @@
-# Hotelv-Management
+# Hotel Management
 📋 Description
 
 A comprehensive hotel management application designed to manage rooms, bookings, and client information. This project is built using C# and Windows Forms and integrates with a local SQL Server database.
