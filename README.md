@@ -29,6 +29,6 @@ by Khawla.
 ![Capture d’écran 2025-01-15 113312](https://github.com/user-attachments/assets/d6c4690b-6c20-4c4a-a76c-338dfb54c484)
 <img width="1448" height="887" alt="usersinterface" src="https://github.com/user-attachments/assets/da583825-b664-4cad-9683-69fc11d111c5" />
 ![admin dashboard](https://github.com/user-attachments/assets/3ae72743-8a2f-4fe1-8627-790a51f136f8)
-
+![customers](https://github.com/user-attachments/assets/8aaf7f01-8970-40bd-b392-3861eeede70c)
 
 
